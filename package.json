@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.5",
-    "@prisma/client": "^4.8.1",
+    "@prisma/client": "^4.16.2",
     "@supabase/storage-js": "^2.1.0",
     "@tabler/icons": "^1.119.0",
     "@tailwindcss/aspect-ratio": "^0.4.2",
