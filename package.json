@@ -37,7 +37,7 @@
     "react-hook-form": "^7.42.0",
     "react-hot-toast": "^2.4.0",
     "react-useanimations": "^2.10.0",
-    "read-package-json": "^6.0.0",
+    "read-package-json": "^7.0.1",
     "slugify": "^1.6.5",
     "superjson": "1.12.1",
     "tabler-icons": "^1.35.0",
